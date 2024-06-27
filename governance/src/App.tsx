@@ -31,6 +31,8 @@ export const App = () => {
             sx={{
               mt: 3,
               mb: 10,
+              ml: 5,
+              mr:0;
             }}
             maxWidth="lg"
           >
